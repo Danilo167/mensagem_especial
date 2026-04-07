@@ -1,18 +1,3 @@
 # mensagem_especial
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Mensagem para uma amiga
+<p>aniversário</p>
+<p>Mensagem para uma amiga</p>
