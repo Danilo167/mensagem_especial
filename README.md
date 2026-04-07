@@ -1,4 +1,2 @@
 # mensagem_especial
-<p>Mensagem</p>
-<p>Aniversário</p>
-<p>Amiga</p>
+<p>Mensagem para uma amiga.</p>
